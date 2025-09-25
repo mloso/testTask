@@ -1,0 +1,3 @@
+networks:
+  testTask:
+    name: "testTask"
