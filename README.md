@@ -19,7 +19,7 @@
 
 ## About
 
-> A test task for vacancy.
+> A test task for vacancy. SQL queries located at `queires` folder.
 
 ## Getting Started
 
